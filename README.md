@@ -1,2 +1,2 @@
 # FTP_to_DB
-FTP_to_DB - Dados Meteorológicos
+Captura de dados meteorológicos do servidor FTP para um DataBase Postgres
